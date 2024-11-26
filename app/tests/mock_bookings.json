@@ -1,0 +1,56 @@
+[
+  {
+    "room_id": 6,
+    "user_id": 2,
+    "date_from": "2023-06-25",
+    "date_to": "2023-07-10",
+    "price": 4300,
+    "tottal_cost": null,
+    "tital_days": null
+  },
+  {
+    "room_id": 1,
+    "user_id": 1,
+    "date_from": "2023-06-29",
+    "date_to": "2023-07-29",
+    "price": 228,
+    "tottal_cost": null,
+    "tital_days": null
+  },
+  {
+    "room_id": 1,
+    "user_id": 1,
+    "date_from": "2023-06-01",
+    "date_to": "2023-06-29",
+    "price": 1232,
+    "tottal_cost": null,
+    "tital_days": null
+  },
+    {
+    "room_id": 1,
+    "user_id": 1,
+    "date_from": "2023-06-01",
+    "date_to": "2023-06-29",
+    "price": 1232,
+    "tottal_cost": null,
+    "tital_days": null
+  },
+    {
+    "room_id": 1,
+    "user_id": 1,
+    "date_from": "2023-06-01",
+    "date_to": "2023-06-29",
+    "price": 1232,
+    "tottal_cost": null,
+    "tital_days": null
+  },
+  {
+    "room_id": 1,
+    "user_id": 4,
+    "date_from": "2023-06-15",
+    "date_to": "2023-06-30",
+    "price": 24500,
+    "tottal_cost": null,
+    "tital_days": null
+  }
+]
