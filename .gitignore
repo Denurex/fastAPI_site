@@ -1,0 +1,20 @@
+.env-non-dev
+.env
+.env-base
+
+*.pyc
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtualenv
+.venv/
+
+# Docker
+*.log
+
+# IDE
+.idea/
+
+# Pytest
+.cache/
